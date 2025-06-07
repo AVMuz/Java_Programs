@@ -17,6 +17,7 @@ public class Prog002
         int mul = num1*num2;
         int div = num1/num2;
         int rem = num1%num2;
+        
         System.out.println("Sum of " + num1 + " and " + num2 + " = " + sum);
         System.out.println("Differenece of " + num1 + " and " + num2 + " = " + dif);
         System.out.println("Product " + num1 + " and " + num2 + " = " + mul);
