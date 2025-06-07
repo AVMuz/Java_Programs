@@ -1,0 +1,2 @@
+(001) Write a program to initialize variable with your name and diplays it.
+(002) Write a program to demonstrate different arithematical operartors.
